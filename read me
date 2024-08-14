@@ -1,0 +1,16 @@
+Repository Description: This repository holds the code and data for the ETL project, which involves extracting data from a PostgreSQL database, loading it into Google BigQuery, and performing data analysis and visualization.
+
+
+Repository Structure:
+
+- data/: contains the raw data files
+- etl/: contains the ETL code (Python scripts)
+- analysis/: contains the data analysis and visualization code (Python scripts)
+- : contains information about the project, including instructions for running the ETL pipeline and data analysis scripts
+
+Commit Messages:
+
+- Initial commit: "Initial commit with project setup and data files"
+- ETL code commit: "Added ETL code to extract data from PostgreSQL database and load into Google BigQuery"
+- Data analysis and visualization code commit: "Added data analysis and visualization code to perform data analysis and create visualizations"
+
